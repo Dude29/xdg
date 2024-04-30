@@ -85,7 +85,7 @@ xdg.darwin = (options = {}) => {
  * ```js
  * const dirs = xdg.linux();
  * ```
- * @return {Object} Returns an object of paths.
+ * @param {Object} `options`
  * @return {Object} Returns an object of paths.
  * @api public
  */
