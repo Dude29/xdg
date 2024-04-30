@@ -281,7 +281,9 @@ const dirs = xdg.macos();
 
 Get XDG equivalent paths for Linux. Used by the main export when `process.platform` is `linux`.
 
-* `returns` **{Object}**: Returns an object of paths.
+**Params**
+
+* `options` **{Object}**
 * `returns` **{Object}**: Returns an object of paths.
 
 **Example**
